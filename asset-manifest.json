@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bank-konto/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Bank-konto/static/js/main.3fa592e1.chunk.js",
+    "main.js.map": "/Bank-konto/static/js/main.3fa592e1.chunk.js.map",
+    "runtime-main.js": "/Bank-konto/static/js/runtime-main.9294df75.js",
+    "runtime-main.js.map": "/Bank-konto/static/js/runtime-main.9294df75.js.map",
+    "static/js/2.21e645e6.chunk.js": "/Bank-konto/static/js/2.21e645e6.chunk.js",
+    "static/js/2.21e645e6.chunk.js.map": "/Bank-konto/static/js/2.21e645e6.chunk.js.map",
+    "index.html": "/Bank-konto/index.html",
+    "precache-manifest.d6b3a31d1b091fe4f361b45b0572674d.js": "/Bank-konto/precache-manifest.d6b3a31d1b091fe4f361b45b0572674d.js",
+    "service-worker.js": "/Bank-konto/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Bank-konto/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.21e645e6.chunk.js.LICENSE.txt": "/Bank-konto/static/js/2.21e645e6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Bank-konto/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9294df75.js",
+    "static/js/2.21e645e6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3fa592e1.chunk.js"
+  ]
+}
