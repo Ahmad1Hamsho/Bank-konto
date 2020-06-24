@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Bank-konto/static/css/main.2cdb8168.chunk.css",
-    "main.js": "/Bank-konto/static/js/main.32f45c4e.chunk.js",
-    "main.js.map": "/Bank-konto/static/js/main.32f45c4e.chunk.js.map",
+    "main.js": "/Bank-konto/static/js/main.179213ad.chunk.js",
+    "main.js.map": "/Bank-konto/static/js/main.179213ad.chunk.js.map",
     "runtime-main.js": "/Bank-konto/static/js/runtime-main.9294df75.js",
     "runtime-main.js.map": "/Bank-konto/static/js/runtime-main.9294df75.js.map",
     "static/js/2.dfc14f18.chunk.js": "/Bank-konto/static/js/2.dfc14f18.chunk.js",
     "static/js/2.dfc14f18.chunk.js.map": "/Bank-konto/static/js/2.dfc14f18.chunk.js.map",
     "index.html": "/Bank-konto/index.html",
-    "precache-manifest.caf7d9d80db3dcf7b7c98398e94181ca.js": "/Bank-konto/precache-manifest.caf7d9d80db3dcf7b7c98398e94181ca.js",
+    "precache-manifest.d84640879923e6fefa0c3147c93b4c64.js": "/Bank-konto/precache-manifest.d84640879923e6fefa0c3147c93b4c64.js",
     "service-worker.js": "/Bank-konto/service-worker.js",
     "static/css/main.2cdb8168.chunk.css.map": "/Bank-konto/static/css/main.2cdb8168.chunk.css.map",
     "static/js/2.dfc14f18.chunk.js.LICENSE.txt": "/Bank-konto/static/js/2.dfc14f18.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9294df75.js",
     "static/js/2.dfc14f18.chunk.js",
     "static/css/main.2cdb8168.chunk.css",
-    "static/js/main.32f45c4e.chunk.js"
+    "static/js/main.179213ad.chunk.js"
   ]
 }
